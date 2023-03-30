@@ -1,2 +1,2 @@
 # Unga-bunga
-jszubvgc
+"vylížu ti lasturku"
