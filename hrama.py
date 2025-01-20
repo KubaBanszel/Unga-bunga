@@ -2,7 +2,6 @@ import math
 try:
     a = int(input("Zadej obsah čtverce: "))
     print(math.sgrt(a))
-seznam = [a, l, a, h, j, e, m, o, c, n, y]
 except ValueError:
     print("""轉為手機模式 简体English本站介紹
 　簡介
